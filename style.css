@@ -11,4 +11,34 @@ html {
 body {
   font-family: "Open Sans", sans-serif;
   background-color: #f5f4f0;
+  margin: 3.5rem;
+}
+span {
+  color: #e1624f;
+  font-weight: 700;
+  text-transform: uppercase;
+  display: inline-block;
+  font-size: 1.6rem;
+}
+
+h1 {
+  font-size: 3.6rem;
+  margin-top: 0.5rem;
+  margin-bottom: 3.5rem;
+}
+img {
+  border-radius: 2.4rem;
+  width: 1150px;
+}
+.descricao-img {
+  margin-top: 2rem;
+  margin-bottom: 2.5rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-style: italic;
+}
+hr {
+  border: none;
+  border-top: 1px solid #e4e4e7; /* Espessura, estilo e cor */
+  margin: 24px 0;
 }
