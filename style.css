@@ -89,19 +89,24 @@ h3 {
   font-weight: 700;
   font-size: 1.6rem;
   margin-left: 2rem;
-  
-} 
+}
 .li-color {
   color: #0c51a7;
   margin-top: -1rem;
   margin-bottom: 4rem;
-
 }
 ul li::marker {
   color: black;
 }
 
-.ul-color-section4 li:first-child{color: #591B98;}
-.ul-color-section4 li:nth-child(2){color:#E5245E;}
-.ul-color-section4 li:nth-child(3){color: #E95E10;}
+.ul-color-section4 li:first-child {
+  color: #591b98;
+}
+.ul-color-section4 li:nth-child(2) {
+  color: #e5245e;
+}
+.ul-color-section4 li:nth-child(3) {
+  color: #e95e10;
+}
 
+#p-alight{text-align: center;}
